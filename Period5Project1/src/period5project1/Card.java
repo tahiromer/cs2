@@ -34,6 +34,11 @@ public class Card {
         Card c4= new Card("spades", "A");
         System.out.println(c4.suit);
         System.out.println(c4.value);
+         
+        Card c5= new Card("squares", "394839489348394839483948");
+        System.out.println(c5.suit);
+        System.out.println(c5.value);
+        
 
     
     }
