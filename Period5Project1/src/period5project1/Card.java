@@ -35,7 +35,7 @@ public class Card {
         System.out.println(c4.suit);
         System.out.println(c4.value);
          
-        Card c5= new Card("squares", "394839489348394839483948");
+        Card c5= new Card("diamonds", "9");
         System.out.println(c5.suit);
         System.out.println(c5.value);
         
